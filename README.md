@@ -81,11 +81,15 @@ This script grid‑searches *T ∈ \[0.3, 2.0]* to minimise Expected Calibra
 
 ## 📄 License
 
-Distributed under the **MIT License** – see `LICENSE` for full text.
+# Pre‑trained Model
+The Emotion2Vec+ Large checkpoint (Apache‑2.0, research‑friendly) is **not**
+included in this repo. Use:
 
-> The pre‑trained Emotion2Vec+ model is released by the original authors under their own licence; please respect their terms.
+bash scripts/download_model.sh  # ~1.2 GB from official link
 
----
+# License
+This project is MIT‑licensed. See NOTICE for third‑party licenses.
+
 
 ## 🌐 Citing This Code
 
