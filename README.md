@@ -117,3 +117,4 @@ Pull requests are welcome! Please:
 ## 💬 Acknowledgements
 
 This project builds upon the **Emotion2Vec+** model • **funasr** toolkit • **PyTorch** ecosystem. Huge thanks to their respective authors and maintainers.
+“This repository relies on the Emotion2Vec+ model released by Z. Ma et al. under Apache‑2.0. All rights reserved by the original authors.”
